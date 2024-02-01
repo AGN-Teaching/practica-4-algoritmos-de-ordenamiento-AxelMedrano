@@ -11,7 +11,7 @@ A partir del n = 50,000 al n = 500,000 (hasta donde pudo mi lap) se puede notar 
 
 
 ## Gráfica del resumen de los resultados
-![image](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-AxelMedrano/assets/125591190/60d13cfb-b8eb-446b-9925-8865b87ef216)
+![image](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-AxelMedrano/assets/125591190/044b0d29-f659-4c7f-bad9-2c13e5bb6280)
 ![image](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-AxelMedrano/assets/125591190/4d13d6d5-9baa-4939-88e5-9f11c8d13320)
 
 Para dejarlo más claro, los números inferiores se refieren a los números n, por lo que en cada uno de esos se ve representado mediante colores cada método, mientras que los números de la izquierda solo hacen referencia a los segundos tardados. El color azul oscuro es el equivalente al insertion sort, el naranja selection sort, el gris bubblesort, el amarillo merge sort y el azul claro el Quicksort, pero estos últimos dos no se pueden apreciar por el tiempo tan corto de estos en la escala total en la primera gráfica, en la segunda que tiene escalas más pequeñas ya se pueden distinguir mejor.
