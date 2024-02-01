@@ -7,7 +7,7 @@
 
 Tras haber hecho la tabla con todos los promedios posibles de los tiempos de ejecución y la desviación estándar se puede observar cómo mi laptop logro ejecutar del n = 5 al n = 100 en 0 segundos por lo que toda esa parte está como ceros, y por consiguiente la desviación igual está en 0.
 Del n = 500 al n = 10,000 se ve que ni el promedio ni la desviación estándar pasan de un segundo, pero se ve que va aumentando cada vez más.
-A partir del n = 50,000 al n = 500,000 (hasta donde pudo mi lap) se puede notar que ya varios promedios pasan de la unidad, sobre todo bubblesort.
+A partir del n = 50,000 al n = 500,000 (hasta donde pudo mi lap) se puede notar que ya varios promedios pasan de la unidad, sobre todo en bubblesort.
 
 
 ## Gráfica del resumen de los resultados
