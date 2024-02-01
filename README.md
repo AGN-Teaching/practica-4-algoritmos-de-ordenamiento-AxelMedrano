@@ -13,8 +13,11 @@ A partir del n = 50,000 al n = 500,000 (hasta donde pudo mi lap) se puede notar 
 ## Gráfica del resumen de los resultados
 ![image](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-AxelMedrano/assets/125591190/044b0d29-f659-4c7f-bad9-2c13e5bb6280)
 ![image](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-AxelMedrano/assets/125591190/4d13d6d5-9baa-4939-88e5-9f11c8d13320)
+![image](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-AxelMedrano/assets/125591190/bb11b54c-7614-4f29-838d-74227b5d4ee4)
+![image](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-AxelMedrano/assets/125591190/cb1a3bd4-5784-44d9-9cde-ec665ca4c1c6)
 
-Para dejarlo más claro, los números inferiores se refieren a los números n, por lo que en cada uno de esos se ve representado mediante colores cada método, mientras que los números de la izquierda solo hacen referencia a los segundos tardados. El color azul oscuro es el equivalente al insertion sort, el naranja selection sort, el gris bubblesort, el amarillo merge sort y el azul claro el Quicksort, pero estos últimos dos no se pueden apreciar por el tiempo tan corto de estos en la escala total en la primera gráfica, en la segunda que tiene escalas más pequeñas ya se pueden distinguir mejor.
+
+Para dejarlo más claro, los números inferiores se refieren a los números n, por lo que en cada uno de esos se ve representado mediante colores cada método, mientras que los números de la izquierda solo hacen referencia a los segundos tardados. El color azul oscuro es el equivalente al insertion sort, el naranja selection sort, el gris bubblesort, el amarillo merge sort y el azul claro el Quicksort, pero estos últimos dos no se pueden apreciar por el tiempo tan corto de estos en la escala total en la primera gráfica, en la segunda y en la cuarta que tiene escalas más pequeñas ya se pueden distinguir mejor.
 
 ## Análisis de los resultados obtenidos
 En el caso de mi laptop tiene un procesador Intel 5 de 2.42GHz, mientras que tiene 8 de ram, esto lo considero importante ya que finalmente depende de cada computadora es que tan rápido se hará por lo que los resultados entre yo y otra persona serán diferentes en mayor o menor cantidad, también al ser al azar los números en sí sería muy complicado que en dos casos de un mismo n saliera lo mismo.
